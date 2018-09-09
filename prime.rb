@@ -11,4 +11,4 @@ if x <= 1
 end
 i = 2 
  while i < x 
- 
+  if x % i 
