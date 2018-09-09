@@ -6,20 +6,6 @@ def prime?(x)
 # end
 # end
 
-
-if x == 2
-  true 
+if x <= 1 
+  return false 
 end
-  if x == -1
-     false
-elsif
-  x % 2 == 0
-  false
-else
-  true
-end
-end
-
-2..num
-num.each do |x| 
-  
