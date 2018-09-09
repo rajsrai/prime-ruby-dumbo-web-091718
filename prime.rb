@@ -10,3 +10,5 @@ if x <= 1
   return false 
 end
 i = 2 
+ while i < x 
+ 
