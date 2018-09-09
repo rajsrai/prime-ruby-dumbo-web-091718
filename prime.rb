@@ -20,5 +20,6 @@ else
 end
 end
 
+2..num
 num.each do |x| 
   
